@@ -6,6 +6,7 @@
 [과제 3 명세](/Week3/README.md)
 [과제 4 명세](/Week4/README.md)
 [과제 5 명세](/Week5/README.md)
+[과제 6 명세](/Week6/README.md)
 
 ## 준비물
 
